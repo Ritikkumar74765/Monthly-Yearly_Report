@@ -29,6 +29,12 @@ To use these files, you need:
 
 ---
 
+## SHEET PREVIEW 
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c26d2075-1192-4b89-9c93-259ccc094d56" /><img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ee91e358-ad51-43d8-8a2a-1fa7bd09da72" />
+
+
+
 ## ▶️ How to Use
 1. Download the files from this repository.  
 2. Open `Monthly Report.xlsx` to update attendance and generate monthly salary.  
